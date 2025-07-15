@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">583883995858</string>
+    <string name="google_api_key" translatable="false">AIzaSyB6xs8ZxU5eli0AmQuHYqwtbw1OEsQGgDw</string>
+    <string name="google_app_id" translatable="false">1:583883995858:android:c2210ca7b27ff8fe540b0b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB6xs8ZxU5eli0AmQuHYqwtbw1OEsQGgDw</string>
+    <string name="google_storage_bucket" translatable="false">trafficsign-95596.firebasestorage.app</string>
+    <string name="project_id" translatable="false">trafficsign-95596</string>
+</resources>
